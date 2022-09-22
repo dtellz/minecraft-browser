@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Canvas>
-        {/* <Sky sunPosition={[80, 40, 500]} /> */}
+        <Sky sunPosition={[80, 40, 500]} />
         <ambientLight intensity={0.5} />
         <Physics>
           <Player />
