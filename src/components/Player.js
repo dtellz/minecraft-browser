@@ -5,6 +5,7 @@ import { useEffect, useRef, useState } from "react";
 import { useKeyboard } from "../hooks/useKeyboard";
 
 
+
 const JUMP_FORCE = 5;
 const SPEED = 5;
 
