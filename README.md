@@ -4,6 +4,8 @@
 
 ## How to play?
 
+Open [https://minecraft-be.netlify.app](https://minecraft-be.netlify.app)
+
 Currently it has 5 types of blocks: Grass, Wood, Log, Glass and Dirt.
 You switch blocks with numbers 1-5 on your keyboard.
 You navigate the world with the mouse and WASD.
